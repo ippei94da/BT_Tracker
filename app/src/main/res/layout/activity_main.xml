@@ -58,7 +58,6 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="#FF5722"
-            android:onClick="gotoLogActivity"
             android:paddingLeft="10dp"
             android:paddingTop="10dp"
             android:text="Log Body Temperature"
@@ -75,7 +74,6 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="#FF5722"
-            android:onClick="goToNormalActivity"
             android:paddingLeft="10dp"
             android:paddingTop="10dp"
             android:text="Check Normal Range"
@@ -87,12 +85,11 @@
             android:layout_height="10dp" />
 
         <TextView
-            android:id="@+id/mainButton3"
+            android:id="@+id/MainButton3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="#FF5722"
-            android:onClick="goToMechanismActivity"
             android:paddingLeft="10dp"
             android:paddingTop="10dp"
             android:text="Mechanism of Fever"
@@ -109,7 +106,6 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="#FF5722"
-            android:onClick="GoToLink2"
             android:paddingLeft="10dp"
             android:paddingTop="10dp"
             android:text="Handling Fever"
