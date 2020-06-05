@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">BT Tracker</string>
+    <string name="log_body_temperature">Log Body Temperature</string>
+    <string name="please_log_your_temperature_today">Please log your temperature today</string>
+    <string name="normal_temperature_is_around_36_5">normal temperature is around 36.5</string>
+    <string name="why_do_we_have_fever">Why do we have fever?</string>
+    <string name="useful_links_about_fever">Useful links about fever</string>
+    <string name="set_reminder">Set Reminder</string>
 </resources>

@@ -10,7 +10,7 @@
         android:id="@+id/NormalTextView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="normal temperature is around 36.5"
+        android:text="@string/normal_temperature_is_around_36_5"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
